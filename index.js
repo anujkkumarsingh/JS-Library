@@ -11,6 +11,32 @@ function Book(name, author, type) {
     this.type = type;
 }
 
+
+// showNotes();
+
+// let addBtn=document.getElementById("addBtn");
+// /addBtn.addEventListener("click",function(e))
+// {
+//     let obj=new Book(book.name,book.author,book.type);
+//     console.log(obj);
+// //     // let notes=localStorage.getItem("notes");
+// //     // if(notes==null){
+//     //     notesObj=[];
+//     // }
+//     // else{
+//     //     notesObj=JSON.parse(notes);
+//     // }
+//     // notesObj.push(obj);
+//     // localStorage.setItem("notes",JSON.stringify(notesObj));
+
+//     // showNotes();
+// }
+
+
+
+
+
+
 // Display Constructor
 function Display() {
 
